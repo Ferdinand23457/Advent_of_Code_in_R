@@ -1,2 +1,2 @@
-# Advent_of_Code_in_R
-This repository documents my journey learning the basics of R during Advent of Code 2024.
+# Advent of Code in R
+Learning the basics of R during Advent of Code 2024.
